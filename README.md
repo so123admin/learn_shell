@@ -1,1 +1,1 @@
-# learn_shell
+# learn shell shell脚本学习笔记
